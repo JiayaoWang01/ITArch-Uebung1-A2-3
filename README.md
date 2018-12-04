@@ -11,7 +11,7 @@ Zeile 5
 
 Zeile 6
 
-Zeile 7 geändert
+Zeile 7 
 
 Zeile 8
 
@@ -33,7 +33,7 @@ Zeile 16
 
 Zeile 17
 
-Zeile 18
+Zeile 18 geändert
 
 Zeile 19
 
